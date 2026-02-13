@@ -33,14 +33,6 @@
     },
     {
         "location": "ISS",
-        "title": "Mexico City to New York",
-        "url_1080p": "http://sylvan.apple.com/Videos/comp_GMT307_136NC_134K_8277_NY_NIGHT_01_v25_SDR_PS_20180907_SDR_2K_AVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT307_136NC_134K_8277_NY_NIGHT_01_v25_HDR_PS_20180907_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT307_136NC_134K_8277_NY_NIGHT_01_v25_SDR_PS_20180907_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT307_136NC_134K_8277_NY_NIGHT_01_v25_HDR_PS_20180907_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
         "title": "Earth Meets Sky Time-lapse",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0a1d2549-ab74-4f18-a9ed-b0b9cfa031ff.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0a1d2549-ab74-4f18-a9ed-b0b9cfa031ff.mp4",
