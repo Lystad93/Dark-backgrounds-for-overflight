@@ -1,39 +1,7 @@
 [
     {
         "location": "ISS",
-        "title": "North America Aurora",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT314_139M_170NC_NORTH_AMERICA_AURORA__COMP_v22_SDR_20181206_v12CC_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT314_139M_170NC_NORTH_AMERICA_AURORA__COMP_v22_HDR_20181206_v12CC_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT314_139M_170NC_NORTH_AMERICA_AURORA__COMP_v22_SDR_20181206_v12CC_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT314_139M_170NC_NORTH_AMERICA_AURORA__COMP_v22_HDR_20181206_v12CC_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Ireland to Asia",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_SDR_PS_FINAL_20180725_F0F6300_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_HDR_PS_FINAL_20180725_F0F6300_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_SDR_PS_FINAL_20180725_F0F6300_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_HDR_PS_FINAL_20180725_F0F6300_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "China",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_SDR_FINAL_20180706_F900F2700_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_HDR_FINAL_20180706_F900F2700_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_SDR_FINAL_20180706_F900F2700_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_HDR_FINAL_20180706_F900F2700_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Antarctic Aurora",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_SDR_20181107_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_HDR_20181107_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_SDR_20181107_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_HDR_20181107_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Earth Meets Sky Time-lapse",
+        "title": "Earth Meets Sky Time-lapse not DV",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0a1d2549-ab74-4f18-a9ed-b0b9cfa031ff.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0a1d2549-ab74-4f18-a9ed-b0b9cfa031ff.mp4",
         "url_4k": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-0a1d2549-ab74-4f18-a9ed-b0b9cfa031ff.mp4",
@@ -41,7 +9,7 @@
     },
     {
         "location": "ISS",
-        "title": "Galaxy Time-lapse",
+        "title": "Galaxy Time-lapse not DV",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-41afee51-85ba-48b2-93da-21fd5a2d165d.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-41afee51-85ba-48b2-93da-21fd5a2d165d.mp4",
         "url_4k": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-41afee51-85ba-48b2-93da-21fd5a2d165d.mp4",
@@ -49,7 +17,7 @@
     },
     {
         "location": "ISS",
-        "title": "Night Sky Time-lapse",
+        "title": "Night Sky Time-lapse not DV",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-ca8346df-646d-47e1-b997-e0c68785800f.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-ca8346df-646d-47e1-b997-e0c68785800f.mp4",
         "url_4k": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-ca8346df-646d-47e1-b997-e0c68785800f.mp4",
@@ -57,7 +25,7 @@
     },
     {
         "location": "ISS",
-        "title": "Planet Earth",
+        "title": "Planet Earth not DV",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-a5ba1bdf-afc1-4066-9803-098c31237296.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-a5ba1bdf-afc1-4066-9803-098c31237296.mp4",
         "url_4k": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-a5ba1bdf-afc1-4066-9803-098c31237296.mp4",
@@ -72,7 +40,7 @@
         "url_4k_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-d4f623e8-d559-4993-b943-cc849024939b.mp4"
     },
     {
-        "location": "ISS",
+        "location": "ISS not DV",
         "title": "Siamese Fighting Fish",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-3fb8f0dc-83e9-43d8-a500-d95364e60fa4.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-3fb8f0dc-83e9-43d8-a500-d95364e60fa4.mp4",
@@ -81,7 +49,7 @@
     },
     {
         "location": "ISS",
-        "title": "Aurora Borealis",
+        "title": "Aurora Borealis not DV",
         "url_1080p": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0c7e91c9-bec7-453b-9163-cd9605186157.mp4",
         "url_1080p_hdr": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/FHD/content-0c7e91c9-bec7-453b-9163-cd9605186157.mp4",
         "url_4k": "https://aebcs-cdn-prod-na.services.firetv.amazon.dev/content/UHD/content-0c7e91c9-bec7-453b-9163-cd9605186157.mp4",
