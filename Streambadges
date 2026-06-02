@@ -427,7 +427,7 @@
       "tagStyle": "filled and bordered",
       "isEnabled": true,
       "type": "filter"
-    }
+    },
     {
       "id": "dolby-atmos",
       "groupId": "audio-tech",
@@ -557,7 +557,7 @@
       "tagStyle": "filled and bordered",
       "isEnabled": true,
       "type": "filter"
-    },
+    }
   ],
   "groups": [
     {
