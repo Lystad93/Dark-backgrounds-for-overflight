@@ -927,7 +927,7 @@
       "groupId": "gl",
       "isEnabled": true,
       "pattern": "(?i)(?<![A-Za-z0-9])(?:norwegian|norsk|nordic|nortekst|twaseries|norvine)(?![A-Za-z0-9])",
-      "imageURL": "https://raw.githubusercontent.com/Lystad93/Dark-backgrounds-for-overflight/main/norway-flag.png",
+      "imageURL": "https://raw.githubusercontent.com/Lystad93/Dark-backgrounds-for-overflight/main/Nuvio_Badges/norway-flag.png",
       "tagColor": "#00000000",
       "borderColor": "#BA0C2F",
       "textColor": "#FFFFFF",
